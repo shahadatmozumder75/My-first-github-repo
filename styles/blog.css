@@ -4,4 +4,8 @@ div{
     padding:12px;
     text-align: center;
     margin: 10px;
+    
+}
+ul{
+    display: inline-block;
 }
